@@ -1,2 +1,2 @@
-StringUtilsFuck.java
- StringUtilsFuck
+by/nikita/jar/StringUtils.java
+ by.nikita.jar.StringUtils

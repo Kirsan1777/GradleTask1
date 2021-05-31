@@ -15,7 +15,7 @@ archivesBaseName = "StringUtils"
 jar{
     manifest{
         attributes (
-                "Main-Class": "StringUtils",
+                "Main-Class": "by.nikita.jar.StringUtils",
                 'Implementation-Title': "StringUtils",
                 'Implementation-Version': "1.3.5"
        )

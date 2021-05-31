@@ -1,3 +1,4 @@
+import by.nikita.jar.StringUtils;
 import org.junit.jupiter.api.Assertions;
 
 public class Test {
